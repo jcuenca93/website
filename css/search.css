@@ -19,13 +19,14 @@ body{
 .active .btn{
     position: absolute;
     top:0;
-    right: 190;
+    right:0;
     font-size: 24px;
     background-color: white;
     border: 0;
     height: 50px;
     width: 50px;
-    cursor:pointer;
+    cursor: pointer;
+    transition: transform 3s ease;
 
 }
 
@@ -36,6 +37,7 @@ body{
     height: 50px;
     width:50px;
     padding: 15px;
+    transition: width 2s ease;
 }
 .search .input:focus{
     outline:none;
