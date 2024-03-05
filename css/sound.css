@@ -1,0 +1,24 @@
+
+*{box-sizing:border-box;
+}
+
+body{
+    height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin:0;
+    background-color:#CCCCFF;
+}
+
+.btn{
+    background-color:#884EA0;
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    height: 15vh;
+    border-radius:5px;
+    color:white;
+    cursor:pointer;
+    margin:10px;
+}
