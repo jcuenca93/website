@@ -9,7 +9,7 @@
  }
 
 
- body{
+body{
     color:#222;
     padding-bottom:50px;
     font-family:"Anta", oswald;
@@ -20,7 +20,7 @@
     margin:0 auto;
  }
 
-.hero {
+.hero{
     background-image:url(images/computer.jpg);
     background-repeat: no-repeat;
     background-size:cover;
@@ -33,6 +33,5 @@
     text-align: center;
     position: relative;
     margin-bottom:20px;
-    
 
 }
