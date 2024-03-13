@@ -29,7 +29,7 @@ nav {
     z-index: 100;
     color: black;
     transform: translateX(-100%);
-    text:black;
+
 }
 
 
@@ -50,7 +50,7 @@ nav ul {
 
 nav ul li {
     padding: 20px;
-    border-bottom: 2px solid rgba(200, 200, 200, 0.1);
+    border-bottom: 2px solid rgba(100, 200, 200, 0.1);
 }
 
 nav ul li:nth-of-type(1) {
@@ -59,7 +59,7 @@ nav ul li:nth-of-type(1) {
 
 header {
     background-color: var(--primary-color);
-    color: white;
+    color: black;
     font-size: 130%;
     position: relative;
     padding: 40px 15px;
